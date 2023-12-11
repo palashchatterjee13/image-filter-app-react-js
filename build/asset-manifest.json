@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.08be8f77.css",
-    "main.js": "/build/static/js/main.423f3e5f.js",
-    "static/media/react.png": "/build/static/media/react.af2f999349da9c19c0a4.png",
-    "static/media/filterx.png": "/build/static/media/filterx.b5433047a7f3f9ad2339.png",
-    "index.html": "/build/index.html",
-    "main.08be8f77.css.map": "/build/static/css/main.08be8f77.css.map",
-    "main.423f3e5f.js.map": "/build/static/js/main.423f3e5f.js.map"
+    "main.css": "/image-filter-app-react-js/build/static/css/main.08be8f77.css",
+    "main.js": "/image-filter-app-react-js/build/static/js/main.869ae716.js",
+    "static/media/react.png": "/image-filter-app-react-js/build/static/media/react.af2f999349da9c19c0a4.png",
+    "static/media/filterx.png": "/image-filter-app-react-js/build/static/media/filterx.b5433047a7f3f9ad2339.png",
+    "index.html": "/image-filter-app-react-js/build/index.html",
+    "main.08be8f77.css.map": "/image-filter-app-react-js/build/static/css/main.08be8f77.css.map",
+    "main.869ae716.js.map": "/image-filter-app-react-js/build/static/js/main.869ae716.js.map"
   },
   "entrypoints": [
     "static/css/main.08be8f77.css",
-    "static/js/main.423f3e5f.js"
+    "static/js/main.869ae716.js"
   ]
 }

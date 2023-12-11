@@ -1,6 +1,8 @@
 # image-filter-app-react-js (FilterX)
 
-This project allows the user to apply various filters to an image of their choice and save it. 
+This project developed in ReactJS allows the user to apply various filters to an image of their choice and save it.
+
+View live demo (production build) at - https://palashchatterjee13.github.io/image-filter-app-react-js/build/
 
 ## List of available filters
 - Saturation
