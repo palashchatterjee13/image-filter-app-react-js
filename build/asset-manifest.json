@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/build/static/css/main.08be8f77.css",
+    "main.js": "/build/static/js/main.423f3e5f.js",
+    "static/media/react.png": "/build/static/media/react.af2f999349da9c19c0a4.png",
+    "static/media/filterx.png": "/build/static/media/filterx.b5433047a7f3f9ad2339.png",
+    "index.html": "/build/index.html",
+    "main.08be8f77.css.map": "/build/static/css/main.08be8f77.css.map",
+    "main.423f3e5f.js.map": "/build/static/js/main.423f3e5f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08be8f77.css",
+    "static/js/main.423f3e5f.js"
+  ]
+}
